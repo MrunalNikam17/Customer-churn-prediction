@@ -1,5 +1,5 @@
 
-Customer Churn Prediction
+# Customer Churn Prediction
 
 This project predicts customer churn (whether a customer leaves the bank or not) using a deep learning model built with TensorFlow/Keras. The dataset used is Churn_modelling.csv.
 
@@ -15,3 +15,15 @@ Perform feature encoding and scaling
 Build a neural network model
 
 Train and evaluate it to classify customers as churned (1) or retained (0)
+
+🚀 Technologies Used
+
+Python
+
+Pandas, NumPy
+
+Matplotlib, Seaborn
+
+Scikit-learn
+
+TensorFlow / Keras
